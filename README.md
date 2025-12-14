@@ -2,7 +2,7 @@
 
 💻 Computer Systems Engineering student | Fullstack ts developer | blockchain developer 🧠 
 
-- Pretty interested in Ethereum core architecture and development. I participated doing some research in EPF study group wiki by adding pages such as the [JSON-RPC specs](https://epf.wiki/#/wiki/EL/JSON-RPC) and devp2p ([PR still open](https://github.com/eth-protocol-fellows/protocol-studies/pull/255))
+- Pretty interested in Ethereum core architecture and development. I participated doing some research in EPF study group wiki by adding pages such as the [JSON-RPC specs](https://epf.wiki/#/wiki/EL/JSON-RPC) and [Devp2p](https://epf.wiki/#/wiki/EL/devp2p)
 - 🌱 The last couple of years I've been involved in blockchain enigneering on EVM-based systems. Also, practicing some dApp development using Solidity and its Smart Contracts. This also includes all the JS/TS and Python libraries for web3 integration just as Web3.js, ethers.js and web3py.
 - Recently incursioning into web3 security researching using tools such as certora prover and foundry, as well as participating in contest.
 - I have some back-end experience developing, deploying and maintaining servers through Node.js, Express.js, Sequelize (ORM), Passport (auth) in API Rest architecture. As front-end developer I have experience on UI dev using Vue or Next.js (React) as js frameworks and Webpack as module bundler.
